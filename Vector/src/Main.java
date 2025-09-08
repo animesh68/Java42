@@ -11,6 +11,6 @@ public class Main {
         vt.add(2,"fourth");
         System.out.println(vt.capacity());
         System.out.println(vt.size());
-        System.out.println(vt.remove(0));
+        System.out.println(vt.remove("first"));
     }
 }
